@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Zeyad<br>A passionate Ai engineer / Data scientist / Game designer from EGYPT<br>🔭 I’m currently working on My grad project<br>🌱 I’m currently learning Data science<br>👨‍💻 All of my projects are available at my github<br>💬 Ask me about Python<br>📫  How to reach me imzeyad2005@gmail.com<br>⚡ 
+Hi 👋, I'm Zeyad<br>A passionate Ai engineer / Data scientist / Game designer from EGYPT<br>🔭 I’m currently working at IEEE CUSB as Data Analysis   Instructor<br>🌱 I’m currently learning Data science<br>👨‍💻 All of my projects are available at my github<br>💬 Ask me about Python<br>📫  How to reach me imzeyad2005@gmail.com<br>⚡ 
 
 
 ## 🌐 Socials:
