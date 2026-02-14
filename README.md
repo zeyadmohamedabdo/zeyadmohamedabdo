@@ -65,18 +65,5 @@
 <img src="https://streak-stats.demolab.com?user=zeyadmohamedabdo&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeyadmohamedabdo&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</p>
-
-
----
-
-## 📈 Profile Views
-<p align="left">
-<img src="https://visitcount.itsvg.in/api?id=zeyadmohamedabdo&icon=5&color=6"/>
-</p>
-
----
 
 ⭐ From [Zeyad Mohamed](https://github.com/zeyadmohamedabdo)
