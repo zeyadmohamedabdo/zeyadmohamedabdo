@@ -1,23 +1,81 @@
-# 💫 About Me:
-Hi 👋, I'm Zeyad<br>A passionate Ai engineer / Data scientist / Game designer from EGYPT<br>🔭 I’m currently working at IEEE CUSB as Data Analysis   Instructor<br>🌱 I’m currently learning Data science<br>👨‍💻 All of my projects are available at my github<br>💬 Ask me about Python<br>📫  How to reach me imzeyad2005@gmail.com<br>⚡ 
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cubeiz) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61550317239380&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cubeiz_xd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Zeyad Abdo](https://www.linkedin.com/in/zeyad-abdo-47826331b/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cube_isme) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CUBeis_xd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imzeyad2005@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-## 📊 GitHub Stats
-
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyadmohamedabdo&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zeyadmohamedabdo&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadmohamedabdo&layout=compact&theme=tokyonight&cache_seconds=1800)
-
+<h1 align="center">Hi 👋, I'm Zeyad Mohamed</h1>
+<h3 align="center">AI Engineer | Data Scientist | Game Developer 🎮 | From Egypt 🇪🇬</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zeyadmohamedabdo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+- 🔭 Data Analysis Instructor at **IEEE CUSB**
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🎮 Game Developer using Unity & Godot
+- 📊 Strong background in Data Science & Model Optimization
+- 💬 Ask me about **Python, ML, AI, Data Analysis**
+- 📫 Reach me at: **imzeyad2005@gmail.com**
+- ⚡ Fun fact: I turn coffee ☕ into trained models 🤖
+
+---
+
+## 🌍 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/zeyad-abdo-47826331b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/CUBeis_xd" target="_blank">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+<a href="https://instagram.com/cubeiz_xd" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:imzeyad2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming & Data
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+### 🤖 AI & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+
+### 📊 Data & BI
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine)
+![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zeyadmohamedabdo&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+<img src="https://streak-stats.demolab.com?user=zeyadmohamedabdo&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadmohamedabdo&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+</p>
+
+---
+
+## 📈 Profile Views
+<p align="left">
+<img src="https://visitcount.itsvg.in/api?id=zeyadmohamedabdo&icon=5&color=6"/>
+</p>
+
+---
+
+⭐ From [Zeyad Mohamed](https://github.com/zeyadmohamedabdo)
