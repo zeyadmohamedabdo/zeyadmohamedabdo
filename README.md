@@ -66,8 +66,9 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadmohamedabdo&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=zeyadmohamedabdo&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
+
 
 ---
 
