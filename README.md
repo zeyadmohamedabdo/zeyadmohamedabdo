@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeyad Mohamed</h1>
 <h3 align="center">AI Engineer | Data Scientist | Game Developer 🎮 | From Egypt 🇪🇬</h3>
 
----
+--- 
 
 ## 🚀 About Me
 - 🔭 Data Analysis Instructor at **IEEE CUSB**
