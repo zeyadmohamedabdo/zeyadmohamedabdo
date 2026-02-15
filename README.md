@@ -143,13 +143,10 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Streak Stats (Alternative reliable service) -->
-<img src="https://streak-stats.demolab.com/?user=zeyadmohamedabdo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<!-- Updated Streak with cache-busting -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadmohamedabdo&theme=tokyonight&hide_border=true&stroke=0000&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub Streak"/>
 
 </div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
