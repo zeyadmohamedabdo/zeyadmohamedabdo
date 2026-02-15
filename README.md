@@ -11,6 +11,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cubeiz_xd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imzeyad2005@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=zeyadmohamedabdo&color=blueviolet&style=for-the-badge)
+
 </div>
 
 ---
@@ -119,33 +121,52 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<!-- Use timestamp to prevent caching -->
-<img src="https://github-readme-stats.vercel.app/api?username=zeyadmohamedabdo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadmohamedabdo&theme=tokyonight&hide_border=true&v=2" height="170" alt="GitHub Streak"/>
+<!-- GitHub Stats - Using multiple services for reliability -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadmohamedabdo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=2" height="170" alt="Top Languages"/>
+<!-- Option 1: GitHub Profile Summary Cards (Most Reliable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeyadmohamedabdo&theme=tokyonight" width="100%" alt="Profile Summary"/>
 
-</div>
+<!-- Stats Cards Row -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeyadmohamedabdo&theme=tokyonight" height="180" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeyadmohamedabdo&theme=tokyonight" height="180" alt="Productive Time"/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=zeyadmohamedabdo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+<!-- Language Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeyadmohamedabdo&theme=tokyonight" height="180" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zeyadmohamedabdo&theme=tokyonight" height="180" alt="Most Used Languages"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
 
-[![Zeyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeyadmohamedabdo&theme=tokyo-night&hide_border=true)](https://github.com/zeyadmohamedabdo)
+<!-- Streak Stats (Alternative reliable service) -->
+<img src="https://streak-stats.demolab.com/?user=zeyadmohamedabdo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=zeyadmohamedabdo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<!-- Activity Graph (Updates Daily) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeyadmohamedabdo&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -155,7 +176,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -179,7 +200,8 @@ Brief description of your amazing project and what technologies you used.
 
 **Thanks for visiting! Feel free to reach out and connect!** 😊
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeyadmohamedabdo&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/zeyadmohamedabdo?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeyadmohamedabdo)
+[![GitHub stars](https://img.shields.io/github/stars/zeyadmohamedabdo?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeyadmohamedabdo)
 
 ⭐ From [Zeyad Mohamed](https://github.com/zeyadmohamedabdo)
 
